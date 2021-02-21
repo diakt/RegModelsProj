@@ -1,0 +1,12 @@
+---
+title: "regression_doc"
+author: "diakt"
+date: "2/21/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+DINGO
